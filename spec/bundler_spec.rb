@@ -1,3 +1,4 @@
+require 'mail'
 require 'bundler'
 
 describe "Bundler" do
